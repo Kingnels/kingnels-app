@@ -13,14 +13,14 @@ function Hero() {
 
         <div className="hero-btns">
             <Button 
-                className="btns" 
+                className="btn" 
                 buttonStyle='btn--outline' 
                 buttonSize="btn--large">
                 GET STARTED 
             </Button>
   
             <Button 
-                className="btns" 
+                className="btn" 
                 buttonStyle='btn--primary' 
                 buttonSize="btn--large">
                 WATCH TRAILER <FaPlayCircle className="faplay"/> 

@@ -41,3 +41,8 @@
     color: #242424;
     transition: all 0.3s ease-out;
 } 
+.btn--primary:hover{
+    color: #fff;
+    background: transparent;
+    transition: all 0.3s ease-out;
+} 
