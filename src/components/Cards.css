@@ -14,11 +14,14 @@
     max-width: 1120px;
     width: 90%;
     margin: 0 auto;
+
+
   }
   
   .cards__wrapper {
     position: relative;
     margin: 50px 0 45px;
+
   }
   
   .cards__items {
@@ -28,9 +31,8 @@
   .cards__item {
     display: flex;
     flex: 1;
-    margin: 0 1rem;
-    border-radius: 10px;border: 1px solid red;
-        
+    margin: 0 1rem; 
+      
   }
   
   .cards__item__link {
@@ -43,6 +45,8 @@
     border-radius: 10px;
     overflow: hidden;
     text-decoration: none;
+   
+
   }
   
   .cards__item__pic-wrap {
